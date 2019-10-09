@@ -1,6 +1,10 @@
 ### Build
 
-docker build -t play-backend:v1 .
+docker build -t andreaspersson85/play-backend:v1 .
+
+### OR Pull
+
+docker pull andreaspersson85/play-backend
 
 ### Deploy
 

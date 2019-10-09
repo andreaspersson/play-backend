@@ -28,7 +28,7 @@ spec:
         run: play-backend
     spec:
       containers:
-      - image: play-backend:v1
+      - image: andreaspersson85/play-backend:v1
         imagePullPolicy: Never
         name: play-backend
         ports:
